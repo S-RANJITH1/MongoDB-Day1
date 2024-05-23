@@ -1,0 +1,1 @@
+Mongo-DB-task-1 🖥💻(Some Queries was solved by using Mongo DB).
